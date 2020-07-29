@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIIS</title>
+    <link>https://tiis.github.io/</link>
+    <description>Recent content on TIIS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tiis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Launch event</title>
+      <link>https://tiis.github.io/posts/2020/06/launch-event/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiis.github.io/posts/2020/06/launch-event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT Park</title>
+      <link>https://tiis.github.io/posts/2020/06/it-park/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiis.github.io/posts/2020/06/it-park/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>We are hiring</title>
+      <link>https://tiis.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://tiis.github.io/about/</guid>
+      <description>Full Stack Java Developer
+Senior / Middle / Junior developer
+Требования:
+ Java 8, JDBC Spring (Spring Web, Spring Boot); Maven/Gradle, Jenkins PostgreSQL, MySQL React/Angular 2+, HTML/CSS Опыт работы с nodeJS Опыт разработки RESTful API приложений; Опыт работы с Git; Возраст/пол-Не важно Опыт работы: от 1 года; Желательно портфолио;  Будет плюсом если у вас есть:
+ Знание русского и английского языка (нужно для координации с командой); Опыт работы с Jira или с другими таск-трекинг системами;  Обязанности:</description>
+    </item>
+    
+  </channel>
+</rss>

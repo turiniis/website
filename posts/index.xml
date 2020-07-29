@@ -1,0 +1,32 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on TIIS</title>
+        <link>https://tiis.github.io/posts/</link>
+        <description>Recent content in Posts on TIIS</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://tiis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Launch event</title>
+            <link>https://tiis.github.io/posts/2020/06/launch-event/</link>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://tiis.github.io/posts/2020/06/launch-event/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>IT Park</title>
+            <link>https://tiis.github.io/posts/2020/06/it-park/</link>
+            <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://tiis.github.io/posts/2020/06/it-park/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>

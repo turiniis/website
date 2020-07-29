@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tiis.github.io/posts/2020/06/launch-event/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/series/101/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/categories/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/categories/development/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/tags/development/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/tags/go/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/tags/golang/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/categories/golang/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/posts/2020/06/it-park/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/posts/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/series/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/tags/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/tags/templates/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/tags/themes/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/</loc>
+    <lastmod>2020-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/series/hugo-101/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tiis.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>
